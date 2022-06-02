@@ -1,0 +1,21 @@
+h1{
+    color: blueviolet;
+}
+h2{
+    color: blueviolet;
+}
+#main{
+    color: aqua;
+   text-align: center;
+}
+.hea1{
+    color: plum;
+}
+#p1{
+    font-family: Arial;
+    line-height: 140px;
+    text-transform: uppercase;
+}
+body{
+    background-color: rgb(174, 165, 181);
+}

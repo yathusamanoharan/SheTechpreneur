@@ -1,0 +1,49 @@
+h1{
+    color:red ;
+}
+body{
+    background-color: #4dcca4;
+   
+  
+}
+p.dotted{
+    border: dotted;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Cambria;
+}
+
+.p1{
+    font-style: italic;
+    margin: 100px 10px 20px 10px;
+    border-radius: 30px;
+    border: 1px solid black;
+    padding: 50px 30px 50px 30px;
+    background-color: blanchedalmond;
+}
+
+.p2{
+    font-weight: bold;
+    border: 1px solid black;
+   background-color: rgb(255, 127, 219);
+   text-align: right;
+   padding: 40px 20px 40px 40px;
+}
+.image{
+    border:1px solid greenyellow;
+    background-color: bisque;
+    padding: 50px;
+}
+img{
+    width: 800px;
+    height: 500px;
+    opacity: 200%;
+
+}
+table, th, th{
+    border: 1px solid;
+}
+table img{
+    width: 200px;
+    height: 200px;
+}
